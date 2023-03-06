@@ -1,0 +1,44 @@
+header {
+  margin: 24px auto;
+}
+
+.title {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: space-between;
+  color: rgba(249, 246, 238, 1);
+  font-size: 1.33rem;
+  margin-left: 1rem;
+  line-height: 1.66rem;
+  width: 10rem;
+
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  filter: drop-shadow(-1px -2px 1px rgba(249, 246, 238, 0.33));
+  border-top: 3px solid white;
+  border-bottom: 3px solid white;
+}
+
+.key-icon-left {
+  position: absolute;
+  transform: scaleX(-1);
+}
+
+.key-icon-right {
+  position: absolute;
+}
+.key-container {
+  display: flex;
+  align-items: center;
+}
+.key-icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 3rem;
+}
+
+.key-title-text {
+  text-align: center;
+}
