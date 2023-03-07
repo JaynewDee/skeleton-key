@@ -1,11 +1,10 @@
-import React from "react";
 import { GiSkeletonKey } from "react-icons/gi";
 
 const CrossedKeys = () => {
   return (
     <div className="key-icon-container">
-      <GiSkeletonKey size="1rem" className="key-icon-left" />
-      <GiSkeletonKey size="1rem" className="key-icon-right" />
+      <GiSkeletonKey size="1.33rem" className="key-icon-left" />
+      <GiSkeletonKey size="1.33rem" className="key-icon-right" />
     </div>
   );
 };
