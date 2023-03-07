@@ -1,7 +1,1 @@
-# Tauri + React + Typescript
-
-This template should help get you started developing with Tauri, React and Typescript in Vite.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+The Skeleton Key concerns itself primarily with the preservation of secrets. Using a novel collection of methods such as pattern matching and user-determined responses, the user maintains the utmost freedom to secure their precious passphrases however they see fit.
