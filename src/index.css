@@ -6,12 +6,16 @@
   line-height: 24px;
   font-weight: 400;
 
-  color: #0f0f0f;
-  background-color: #181818;
-
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+  --bone: rgba(249, 246, 238, 1);
+  --abyss: #181818;
+  --cave: #1f1f1f;
+}
+
+body {
+  background-color: var(--abyss);
 }

@@ -13,7 +13,7 @@ const CrossedKeys = () => {
 const Title = () => {
   return (
     <div className="title">
-      SKELETON
+      <span className="skeleton-title-text">SKELETON</span>
       <div className="key-container">
         <CrossedKeys />
         <span className="key-title-text">KEY</span>
